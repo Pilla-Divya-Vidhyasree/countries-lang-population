@@ -1,0 +1,40 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    position: relative;
+    margin:0%;
+}
+.heading{
+    margin-top:5%;
+    margin-left:37%;
+    color:orange;
+    font-size:40px;
+}
+.head-desc{
+    margin-left:40%;
+    font-size: larger;
+    margin-bottom:2%;
+}
+.buttons{
+    padding-top:2%;
+    margin-top:1%;
+    margin-left:35%;
+}
+.population-button, .language-button{
+    background-color: orange;
+    width:170px;
+    height:40px;
+    border-style: none;
+    margin-left:2%;
+}
+.button-desc{
+    margin-top:1%;
+    margin-left:38%;
+    padding-bottom:2%;
+}
+.section-1{
+    background-color:#f5f5f5;
+    border-style: inset;
+}
+#myChart{
+    margin-left:10%;
+}
